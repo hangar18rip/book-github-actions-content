@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/lgmorand/book-github-actions-content#readme",
   "dependencies": {
-    "@actions/core": "^1.2.7"
+    "@actions/core": "^1.9.1"
   }
 }
